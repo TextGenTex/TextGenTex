@@ -3,9 +3,12 @@ TextGenTex
 
 preliminary early start notes and possible musing on potentials.
 
-Outgrowth of some participants in [NaNoGenMo 2013](https://github.com/dariusk/NaNoGenMo).
+Outgrowth of some participants in NaNoGemMo [2013](https://github.com/dariusk/NaNoGenMo) and [2014](https://github.com/dariusk/NaNoGenMo-2014).
 
 An ongoing "concern" that should trouble no-one.
+
+
+See also: http://groups.google.com/group/generativetext
 
 
 github-pages "blog", repos for web-experiments, issues for discussion, etc.
